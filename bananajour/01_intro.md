@@ -2,4 +2,5 @@
 # Bananajour #
 
     $ gem install bananajour
-    $ cd 
+    $ cd drnic-hello-world
+    $ bananajour 

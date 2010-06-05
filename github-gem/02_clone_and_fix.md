@@ -1,7 +1,13 @@
-!SLIDE commandline
+!SLIDE bullets
 # Clone and Fix #
 
-!SLIDE commandline
+* Get the repo
+* Make changes
+* Fork repo
+* Push changes
+* Notify others
+
+!SLIDE commandline incremental
 # Find and clone #
 
     $ gh clone --search "hello world"
@@ -15,10 +21,12 @@
     $ git config remote.origin.url
     git://github.com/drnic/drnic-hello-world.git
     
-!SLIDE bullets
-# Make a change #
+!SLIDE code
+# Change README.md #
 
-* Add yourself to README.md
+    ## Contributors
+    * Dr Nic
+    * YOU
 
 !SLIDE bullets
 # Commit changes #
@@ -37,3 +45,15 @@
     
     $ git push origin master
     $ gh network web
+
+!SLIDE full-page
+# Network graph #
+
+TODO - insert sample image
+
+!SLIDE commandline
+# Notify others #
+
+    $ github pull-request drnic
+    $ gh home
+    

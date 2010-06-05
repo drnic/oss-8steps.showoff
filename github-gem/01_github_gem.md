@@ -8,3 +8,5 @@
     # Aliased command:
     $ github -h
     $ gh -h
+    
+    $ gh open defunkt/github-gem

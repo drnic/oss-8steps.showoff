@@ -1,9 +1,9 @@
 
 
-## Deploying to Heroku ##
+## Re-deploy to Heroku ##
 
-
-
+    $ git remote add heroku git@heroku.com:oss-8steps.git
+    $ git push heroku master
 
 ## Local viewing ##
 

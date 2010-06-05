@@ -25,10 +25,11 @@
 # Change README.md #
 
     ## Contributors
+    
     * Dr Nic
     * YOU
 
-!SLIDE bullets
+!SLIDE commandline
 # Commit changes #
 
     $ git commit -a -m "Added YOU to contribs"

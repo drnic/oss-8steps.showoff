@@ -21,13 +21,18 @@
     $ git config remote.origin.url
     git://github.com/drnic/oss-8steps-app.git
     
-!SLIDE code
-# Change README.md #
+!SLIDE code small
+# home/index.html.haml #
 
-    ## Contributors
-    
-    * Dr Nic
-    * YOU
+    @@@ ruby
+    # Add yourself
+    %li
+      Dr Nic -
+      %a{ :href => 'http://github.com/drnic' } github
+      \-
+      %a{ :href => 'http://twitter.com/drnic' } @drnic
+      \-
+      %a{ :href => 'http://drnicwilliams.com' } drnicwilliams.com
 
 !SLIDE commandline
 # Commit changes #
@@ -55,6 +60,4 @@ TODO - insert sample image
 !SLIDE commandline
 # Notify others #
 
-    $ github pull-request drnic
     $ gh home
-    

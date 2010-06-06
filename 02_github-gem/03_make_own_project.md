@@ -1,8 +1,8 @@
 !SLIDE commandline
 # New project #
 
-    $ mkdir drnic-hello-world
-    $ cd drnic-hello-world
+    $ mkdir oss-8steps-app
+    $ cd oss-8steps-app
     $ touch README.md
     $ git init
     $ git add .
@@ -13,7 +13,7 @@
 
     $ gh create-from-local
     $ git config remote.origin.url
-    git@github.com:drnic/drnic-hello-world.git
+    git@github.com:drnic/oss-8steps-app.git
 
     $ git push origin master
 

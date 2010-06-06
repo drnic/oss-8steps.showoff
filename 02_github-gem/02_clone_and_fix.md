@@ -12,14 +12,14 @@
 
     $ gh clone --search "hello world"
     Select a repository to clone:
-    1.  drnic/drnic-hello-world    # "hello world" demo app
+    1.  drnic/oss-8steps-app    # "hello world" demo app
     ? 1
     Initialized empty Git repository in 
-      /Users/drnic/gems/drnic-hello-world/.git/
+      /Users/drnic/gems/oss-8steps-app/.git/
 
-    $ cd drnic-hello-world
+    $ cd oss-8steps-app
     $ git config remote.origin.url
-    git://github.com/drnic/drnic-hello-world.git
+    git://github.com/drnic/oss-8steps-app.git
     
 !SLIDE code
 # Change README.md #
@@ -42,7 +42,7 @@
 
     $ gh fork
     $ git config remote.origin.url
-    git@github.com:YOU/drnic-hello-world.git
+    git@github.com:YOU/oss-8steps-app.git
     
     $ git push origin master
     $ gh network web

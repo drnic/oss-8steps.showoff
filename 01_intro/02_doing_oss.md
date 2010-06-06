@@ -30,22 +30,16 @@
 * Accepted or not
 
 !SLIDE bullets
-# 2008+ - the rise of Git and GitHub #
+# 2008+ - the rise of Git #
 
-
-
-!SLIDE bullets
-# Not just for Ruby #
-
-* Many (most?) open source is git(hub) hosted
-* Git != Github
-* For OSS, Git ~ Github
+* Distributed
+* Make commits on an airplane
+* GitHub - easy hosting
+* Bananajour - local hosting
 
 !SLIDE bullets
-# Not just GitHub #
+# This tutorial is not... #
 
-* bananajour
-* host and share git repos
-* discover repos
-
-
+* Advanced Git
+* Being a Core Rails member
+* 

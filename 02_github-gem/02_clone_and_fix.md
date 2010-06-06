@@ -7,7 +7,7 @@
 * Push changes
 * Notify others
 
-!SLIDE commandline incremental
+!SLIDE commandline
 # Find and clone #
 
     $ gh clone --search "hello world"

@@ -7,7 +7,7 @@
 * Notification via email
 * Examine via git
 
-!SLIDE commandline incremental
+!SLIDE commandline
 # Examining Patches #
 
     $ gh network -h

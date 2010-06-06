@@ -7,7 +7,7 @@
 
 <img src="images/bananajour.png" width="100px">
 
-!SLIDE commandline incremental
+!SLIDE commandline
 # Bananajour #
 
     $ gem install bananajour
@@ -18,7 +18,7 @@
     Next: git push banana master
     $ git push banana master
 
-!SLIDE commandline incremental
+!SLIDE commandline
 # Bananajour Server #
 
     $ bananajour

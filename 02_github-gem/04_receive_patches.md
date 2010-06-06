@@ -45,7 +45,7 @@
 !SLIDE center
 # Example signoff #
 
-![Merging Commits By Other Author](../images/merging commits by other author.png)
+![Merging Commits By Other Author](../images/merging-commits-by-other-author.png)
 
 !SLIDE commandline
 # Example signoff #
@@ -59,7 +59,7 @@
      create mode 100644 app/views/home/index.html.haml
 
 !SLIDE commandline
-# Sign-off in log #
+# Sign-off-by #
 
     $ git log
     commit b507afd077d6a6f3a56f617dc944e1a7e6df8956

@@ -5,7 +5,7 @@
 * Discover git repos
 * Via Bonjour
 
-<img src="../images/bananajour.png" width="100px">
+<img src="images/bananajour.png" width="100px">
 
 !SLIDE commandline incremental
 # Bananajour #
@@ -34,7 +34,7 @@
 !SLIDE center
 # Bananajour Browser #
 
-![Bananajour](../images/bananajour-example.png)
+![Bananajour](images/bananajour-example.png)
 
 !SLIDE bullets
 # Bananajour Discovery #

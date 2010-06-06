@@ -21,8 +21,7 @@
 # Becoming a committer #
 
 * Owner grants you commit rights
-* You update your `origin` url
-* `git://` to `git@`
+* You update your `origin` url: `git://` to `git@`
 * You can delete your fork
 * No prizes for "Most Forks"
 

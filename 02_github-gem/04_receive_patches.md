@@ -21,12 +21,12 @@
 
 !SLIDE full-page
 
-![Gitx Example](../images/gitx-example.png)
+![Gitx Example](images/gitx-example.png)
 
 !SLIDE center
 # Show all branches #
 
-![Show All Branches](../images/show-all-branches.png)
+![Show All Branches](images/show-all-branches.png)
 
 !SLIDE commandline
 # Merge entire fork #
@@ -45,7 +45,7 @@
 !SLIDE center
 # Example signoff #
 
-![Merging Commits By Other Author](../images/merging-commits-by-other-author.png)
+![Merging Commits By Other Author](images/merging-commits-by-other-author.png)
 
 !SLIDE commandline
 # Example signoff #

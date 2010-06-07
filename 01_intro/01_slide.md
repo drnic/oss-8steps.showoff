@@ -1,16 +1,20 @@
-!SLIDE bullets
+!SLIDE bullets center
 # Contributing to OSS - The 8 Steps for Fixing Other People’s Code #
 
 * Dr Nic, @drnic, drnicwilliams.com
 * Mocra, mocra.com
 
-!SLIDE bullets
+![Install Git Now](images/install-git-now.png)
+
+!SLIDE bullets center
 # Meta #
 
-* self     = oss8steps.heroku.com
+* self     = http://oss8steps.heroku.com
 * twitter  = #oss8steps
 * pre-reqs = git, rubygems
 * OSS      = "Open Source Software"
+
+![Install Git Now](images/install-git-now.png)
 
 !SLIDE bullets
 # Aim for today #

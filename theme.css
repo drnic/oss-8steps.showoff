@@ -3,7 +3,7 @@ body {
 }
 
 #preso, .slide {
-    background: #fff;
+    background: #fff url('background.jpg') center center;
     width: 1020px;
     height: 740px;
     margin-left:auto;
@@ -256,3 +256,12 @@ a.fg-button { float:left; }
   color:#0000FF !important;
   background-color: yellow;
 }
+
+img{padding:20px;background:rgba(0,0,0,0.2);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* NOTE removes the white background on the code on line 32. Not sure if you want to keep it. */
+pre.sh_ruby.sh_sourceCode{background:transparent;}

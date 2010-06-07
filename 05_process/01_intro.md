@@ -29,3 +29,14 @@
     ... fix issue ...
     $ rake
     $ git commit -a -m "Nasty bug heroically fixed"
+
+!SLIDE commandline
+# Cucumber for Rubygems? #
+
+    $ gem install newgem
+    $ cd /my/gem
+    $ rubigen rubygems install_cucumber
+    $ cat features/step_definitions/common_steps.rb
+    $ rake features
+
+

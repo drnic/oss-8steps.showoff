@@ -52,12 +52,13 @@
     $ git push origin master
     $ gh network web
 
-!SLIDE full-page
+!SLIDE center
 # Network graph #
 
-TODO - insert sample image
+![Network Graph](images/network-graph.png)
 
 !SLIDE commandline
 # Notify others #
 
     $ gh home
+    then "Pull Request" etc.

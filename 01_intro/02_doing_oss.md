@@ -38,8 +38,15 @@
 * Bananajour - local hosting
 
 !SLIDE bullets
-# This tutorial is not... #
+# This tutorial is NOT... #
 
 * Advanced Git
 * Being a Core Rails member
-* 
+
+!SLIDE bullets
+# This tutorial IS... #
+
+* Basics of helping on OSS
+* Zero-cost OSS contributions
+* Helping other's help your projects
+

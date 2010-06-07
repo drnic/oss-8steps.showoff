@@ -10,6 +10,7 @@
 # Meta #
 
 * self     = http://oss8steps.heroku.com
+* pdf      = http://oss8steps.heroku.com/oss-8steps.pdf
 * twitter  = #oss8steps
 * pre-reqs = git, rubygems
 * OSS      = "Open Source Software"

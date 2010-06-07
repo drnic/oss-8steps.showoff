@@ -82,18 +82,60 @@
     498 examples, 0 failures
 
 
-
 !SLIDE bullets
-# 5. Make changes #  
+# 5. Make changes #
 
+* Add coverage tests
+* Add break tests
+* Add documentation
+* Cleanup/refactor
+* Add features
+
+!SLIDE commandline
+# 5a. Make changes via git #
+
+    $ git status
+    # On branch master
+    # ...
+    #	modified:   README.rdoc
+    #	modified:   README.txt
+    
+    $ git commit -a -m "links to TextMate bundle support"
+    [master 52a7198] links to TextMate bundle support
+     2 files changed, 12 insertions(+), 1 deletions(-)
     
 
-!SLIDE bullets
-# 6. Fork repository #  
+!SLIDE center
+# 6. Fork repository #
 
-!SLIDE bullets
-# 7. Push changes #  
+![Fork Repo](images/fork-repo.png)
 
-!SLIDE bullets
-# 8. Announce changes #  
+!SLIDE center
+# 6. Fork repository #
+
+![Forking Repo Hardcore](images/forking-repo-hardcore.png)
+
+!SLIDE commandline
+# 7. Push changes #
+
+    $ git remote rename origin schacon
+    $ git remote add origin git@github.com:drnic/showoff.git
+    $ git push origin master
+    Counting objects: 7, done.
+    Delta compression using up to 2 threads.
+    Compressing objects: 100% (4/4), done.
+    Writing objects: 100% (4/4), 578 bytes, done.
+    Total 4 (delta 3), reused 0 (delta 0)
+    To git@github.com:drnic/showoff.git
+       2fdb671..5f07ba5  master -> master
+
+!SLIDE center
+# 8. Announce changes #
+
+![Pull Request 1](images/pull-request-1.png)
+
+!SLIDE center
+# 8. Announce changes #
+
+![Pull Request 2](images/pull-request-2.png)
 

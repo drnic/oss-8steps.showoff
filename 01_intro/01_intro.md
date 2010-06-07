@@ -29,8 +29,8 @@
 # Who am I? #
 
 * Since RailsConf 2006
-* 100+ small-to-medium OSS projects
-* 100+ contributions to other OSS
+* 100+ tiny-to-small-to-medium OSS projects
+* 50+ contributions to other OSS
 * github.com/drnic
 
 !SLIDE bullets
